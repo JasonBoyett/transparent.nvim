@@ -7,7 +7,7 @@ local config = {
     'Statement', 'PreProc', 'Type', 'Underlined', 'Todo', 'String', 'Function',
     'Conditional', 'Repeat', 'Operator', 'Structure', 'LineNr', 'NonText',
     'SignColumn', 'CursorLine', 'CursorLineNr', 'StatusLine', 'StatusLineNC',
-    'EndOfBuffer',
+    'EndOfBuffer', 'LspInlayHint',
   },
   extra_groups = {},
   exclude_groups = {},
